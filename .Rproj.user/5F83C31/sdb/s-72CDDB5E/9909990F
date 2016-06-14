@@ -1,0 +1,18 @@
+{
+    "contents" : "---\ntitle: \"TextMining_WorldWar\"\nauthor: \"Maurizio Murino\"\ndate: \"13 June 2016\"\noutput: html_document\n---\n\n# Indice\n\n0. [Sinossi](# Sinossi)\n1. [Ricerca dati](# Ricerca dati)\n\n# Sinossi\n\n3 maggio 2016\n\nIl lavoro si focalizzerà sul bosco, sui valori in riferimento al bosco e sull’uso del bosco nella II GM nella provincial di Trento (ed eventualmente nella provincial di Belluno).\n\n1) Ricerca testi monografici e biografici sulla II Guerra Mondiale in riferimento al Trentino-Alto Adige (e Veneto) in lingua italiana. Quando avremo una lista (proposta da Mauri), si verificherà la sua completezza chiedendo ad alcuni bibliotecari (Jessica). Tutti i testi devono essere in formato e-book.\n\n2) Analisi quantitativa tramite Rstudio dei testi raccolti. In particolare verranno definite le principali tematiche in riferimento al bosco e all’uso del bosco. Le tematiche verranno definite sulla base del numero di volte che vengono citate all’interno dei testi. Alcune statistiche verranno presentate.\n\n3) Sulla base dei risultati del punto (2), verrà predisposta la traccia di intervista.\n\n4) Nel frattempo verranno contattate alcune associazioni (quali?) che potrebbero metterci in contatto con alcuni potenziali intervistati. Gli intervistati potrebbero essere reduci della II GM o altre persone a conoscenza dei fatti (parenti di chi ha vissuto durante la guerra o testimoni di racconti).\n\n5) Nel frattempo incontro con il reporter (chiedere se hai programmi per l’analisi delle tracce audio, come fa NVIVO).\n\n6) Le interviste verranno poi analizzate qualitativamente, sulla base di domande di ricerca che potrebbero essere a loro volta tratte dall’analisi del punto (2).\n\n7) Presentazione a Parma a settembre/ottobre. \n\nCartella di riferimento su [Onedrive](https://onedrive.live.com/view.aspx?cid=deb72f4df51262a7&page=view&resid=DEB72F4DF51262A7!340&parId=DEB72F4DF51262A7!339&authkey=!ApTPx7j9xyCQE9g&app=Word).\n\n# Ricerca dati\n\nLa ricerca dati è condotta attraverso il motore di ricerca avanzato del [Catalogo Bibliografico Trentino](http://www.cbt.biblioteche.provincia.tn.it/oseegenius/advanced?a=reset).\nLa ricerca sfrutta i criteri della [Classificazione Decimale Dewey](http://www.aib.it/pubblicazioni/webdewey-italiana/introduzione/). I primi criteri di ricerca utilizzati:\n\n*parola chiave:* bosco\n*classificazione:* 940.53\n\nI testi sono quindi ricercati attraverso la piattaforma [MLOL](http://trentino.medialibrary.it/home/home.aspx), il blog delle biblioteche pubbliche digitali italiane.\n\n",
+    "created" : 1465837470398.000,
+    "dirty" : true,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "3023157891",
+    "id" : "9909990F",
+    "lastKnownWriteTime" : 0,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "type" : "r_markdown"
+}
